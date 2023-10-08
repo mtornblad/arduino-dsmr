@@ -33,6 +33,8 @@
 #ifdef ARDUINO
 #include <Arduino.h>
 #else
+#include <string>
+// using namespace std;
 #endif
 
 
